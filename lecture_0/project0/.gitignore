@@ -1,0 +1,61 @@
+.CFUserTextEncoding
+.R/
+.Rhistory
+.Trash/
+.anaconda/
+.bash_history
+.bash_sessions/
+.canopy/
+.conda/
+.condarc
+.cups/
+.docker/
+.dropbox/
+.enstaller4rc
+.gitconfig
+.gitignore_global
+.graphlab/
+.hgignore_global
+.ipython/
+.jupyter/
+.matplotlib/
+.oracle_jre_usage/
+.pip/
+.plotly/
+.profile
+.profile-anaconda.bak
+.profile-anaconda2.bak
+.rnd
+.rstudio-desktop/
+.spotflux/
+.spyder/
+.ssh/
+.subversion/
+.viminfo
+Applications/
+Courses videos/Coursera-Python Data Science/
+Courses videos/OReilly.Learning.Path.Advanced.Machine.Learning_p30download.com/
+Courses videos/OReilly.Learning.Path.An.Introduction.to.Machine.Learning.with.Web.Data_p30download.com/
+Courses videos/The Complete Python Course  Learn Python by Doing(www.TutDL.ir)/
+Courses videos/Udemy.Big.Data.Analytics.with.Apache.Spark.and.Python_p30download.com/
+Courses videos/Udemy.Python.for.Data.Science.and.Machine.Learning.Bootcamp_p30download.com/
+Courses videos/Udemy.Tableau.9.3.Desktop.Server.And.Data.Science_p30download.com/
+Courses videos/Web development/HarvardXCS50W-V000100_DTH.mp4
+Courses videos/Web development/HarvardXCS50W-V000300_DTH.mp4
+Courses videos/Web development/lecture0.pdf
+Courses videos/Web development/lecture1.pdf
+Courses videos/Web development/my_codes/
+Courses videos/Web development/project0/.gitignore
+Courses videos/Web development/src0/
+Courses videos/Web development/src1/
+Courses videos/data-visualization-tableau(muniversity.ir)/
+Desktop/
+Documents/
+Downloads/
+Dropbox/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+anaconda2/

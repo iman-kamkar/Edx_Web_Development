@@ -1,0 +1,35 @@
+table {
+				border: 2px solid black;
+				margin: 20px;
+				padding: 10px;
+				border-collapse: collapse;
+				text-align: center;
+				width: 50%;
+
+			}
+
+			th {
+				background-color: lightgray;
+			}
+
+			th, td {
+				border: 1px solid black;
+			}
+
+#image {
+			width: 25%;
+			float: right;
+		}
+			
+#boxing {
+			font-family: serif, arial;
+		}
+
+.name   {
+			font-weight: bold;
+			font-style: italic;
+		}
+
+#boxer {
+			<link href='boxer.html'>
+		}
